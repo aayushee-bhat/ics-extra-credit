@@ -1,0 +1,38 @@
+body{
+    background-color:black;
+    color: white;
+}
+
+h1{
+    padding: 20px;
+}
+
+.crimson{
+    color:crimson;
+}
+
+.blue{
+    color:white;
+}
+
+p{
+    color:yellow;
+}
+
+.container{
+    margin: 50px 50px 50px 50px; /* top, right, bottom, left */
+    padding: 50px;
+    border: 1px solid; 
+}
+
+.headings{
+    font-size: 40px;
+    padding: 30px;
+    background-color:antiquewhite;
+}
+
+button{
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 18px;
+}
